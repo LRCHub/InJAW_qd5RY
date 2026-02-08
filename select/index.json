@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Strawberry Breakfast",
+  "base_artist": "SixTONES",
+  "createdAt": "2026-02-08T08:40:48.278486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Strawberry Breakfast",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_Strawberry_Breakfast_SixTONES.txt"
+    }
+  ]
+}
